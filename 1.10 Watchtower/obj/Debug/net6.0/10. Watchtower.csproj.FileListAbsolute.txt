@@ -1,0 +1,15 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\bin\Debug\net6.0\10. Watchtower.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\bin\Debug\net6.0\10. Watchtower.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\bin\Debug\net6.0\10. Watchtower.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\bin\Debug\net6.0\10. Watchtower.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\bin\Debug\net6.0\10. Watchtower.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\obj\Debug\net6.0\10. Watchtower.csproj.AssemblyReference.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\obj\Debug\net6.0\10. Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\obj\Debug\net6.0\10. Watchtower.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\obj\Debug\net6.0\10. Watchtower.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\obj\Debug\net6.0\10. Watchtower.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\obj\Debug\net6.0\10. Watchtower.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\obj\Debug\net6.0\refint\10. Watchtower.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\obj\Debug\net6.0\10. Watchtower.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\obj\Debug\net6.0\10. Watchtower.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\10. Watchtower\obj\Debug\net6.0\ref\10. Watchtower.dll
