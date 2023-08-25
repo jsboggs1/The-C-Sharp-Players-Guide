@@ -1,0 +1,30 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\bin\Debug\net6.0\Hello-World.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\bin\Debug\net6.0\Hello-World.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\bin\Debug\net6.0\Hello-World.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\bin\Debug\net6.0\Hello-World.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\bin\Debug\net6.0\Hello-World.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\obj\Debug\net6.0\Hello-World.csproj.AssemblyReference.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\obj\Debug\net6.0\Hello-World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\obj\Debug\net6.0\Hello-World.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\obj\Debug\net6.0\Hello-World.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\obj\Debug\net6.0\Hello-World.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\obj\Debug\net6.0\Hello-World.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\obj\Debug\net6.0\refint\Hello-World.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\obj\Debug\net6.0\Hello-World.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\obj\Debug\net6.0\Hello-World.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Hello-World\obj\Debug\net6.0\ref\Hello-World.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\bin\Debug\net6.0\Hello-World.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\bin\Debug\net6.0\Hello-World.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\bin\Debug\net6.0\Hello-World.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\bin\Debug\net6.0\Hello-World.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\bin\Debug\net6.0\Hello-World.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\obj\Debug\net6.0\Hello-World.csproj.AssemblyReference.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\obj\Debug\net6.0\Hello-World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\obj\Debug\net6.0\Hello-World.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\obj\Debug\net6.0\Hello-World.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\obj\Debug\net6.0\Hello-World.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\obj\Debug\net6.0\Hello-World.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\obj\Debug\net6.0\refint\Hello-World.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\obj\Debug\net6.0\Hello-World.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\obj\Debug\net6.0\Hello-World.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1. Hello-World\obj\Debug\net6.0\ref\Hello-World.dll

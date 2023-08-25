@@ -1,0 +1,15 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\bin\Debug\net6.0\3. The-Thing-Namer-3000.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\bin\Debug\net6.0\3. The-Thing-Namer-3000.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\bin\Debug\net6.0\3. The-Thing-Namer-3000.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\bin\Debug\net6.0\3. The-Thing-Namer-3000.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\bin\Debug\net6.0\3. The-Thing-Namer-3000.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\obj\Debug\net6.0\3. The-Thing-Namer-3000.csproj.AssemblyReference.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\obj\Debug\net6.0\3. The-Thing-Namer-3000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\obj\Debug\net6.0\3. The-Thing-Namer-3000.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\obj\Debug\net6.0\3. The-Thing-Namer-3000.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\obj\Debug\net6.0\3. The-Thing-Namer-3000.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\obj\Debug\net6.0\3. The-Thing-Namer-3000.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\obj\Debug\net6.0\refint\3. The-Thing-Namer-3000.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\obj\Debug\net6.0\3. The-Thing-Namer-3000.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\obj\Debug\net6.0\3. The-Thing-Namer-3000.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\3. The-Thing-Namer-3000\obj\Debug\net6.0\ref\3. The-Thing-Namer-3000.dll

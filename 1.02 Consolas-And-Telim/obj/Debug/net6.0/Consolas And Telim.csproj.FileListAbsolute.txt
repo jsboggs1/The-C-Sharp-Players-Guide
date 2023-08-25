@@ -1,0 +1,30 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\bin\Debug\net6.0\Consolas And Telim.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\bin\Debug\net6.0\Consolas And Telim.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\bin\Debug\net6.0\Consolas And Telim.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\bin\Debug\net6.0\Consolas And Telim.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\bin\Debug\net6.0\Consolas And Telim.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\obj\Debug\net6.0\Consolas And Telim.csproj.AssemblyReference.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\obj\Debug\net6.0\Consolas And Telim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\obj\Debug\net6.0\Consolas And Telim.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\obj\Debug\net6.0\Consolas And Telim.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\obj\Debug\net6.0\Consolas And Telim.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\obj\Debug\net6.0\Consolas And Telim.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\obj\Debug\net6.0\refint\Consolas And Telim.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\obj\Debug\net6.0\Consolas And Telim.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\obj\Debug\net6.0\Consolas And Telim.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\Consolas And Telim\obj\Debug\net6.0\ref\Consolas And Telim.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\bin\Debug\net6.0\Consolas And Telim.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\bin\Debug\net6.0\Consolas And Telim.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\bin\Debug\net6.0\Consolas And Telim.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\bin\Debug\net6.0\Consolas And Telim.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\bin\Debug\net6.0\Consolas And Telim.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\obj\Debug\net6.0\Consolas And Telim.csproj.AssemblyReference.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\obj\Debug\net6.0\Consolas And Telim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\obj\Debug\net6.0\Consolas And Telim.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\obj\Debug\net6.0\Consolas And Telim.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\obj\Debug\net6.0\Consolas And Telim.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\obj\Debug\net6.0\Consolas And Telim.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\obj\Debug\net6.0\refint\Consolas And Telim.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\obj\Debug\net6.0\Consolas And Telim.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\obj\Debug\net6.0\Consolas And Telim.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\2. Consolas-And-Telim\obj\Debug\net6.0\ref\Consolas And Telim.dll
