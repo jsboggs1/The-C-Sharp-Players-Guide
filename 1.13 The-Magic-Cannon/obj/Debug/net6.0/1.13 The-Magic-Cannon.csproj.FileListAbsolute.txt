@@ -1,0 +1,15 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\bin\Debug\net6.0\1.13 The-Magic-Cannon.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\bin\Debug\net6.0\1.13 The-Magic-Cannon.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\bin\Debug\net6.0\1.13 The-Magic-Cannon.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\bin\Debug\net6.0\1.13 The-Magic-Cannon.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\bin\Debug\net6.0\1.13 The-Magic-Cannon.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\obj\Debug\net6.0\1.13 The-Magic-Cannon.csproj.AssemblyReference.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\obj\Debug\net6.0\1.13 The-Magic-Cannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\obj\Debug\net6.0\1.13 The-Magic-Cannon.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\obj\Debug\net6.0\1.13 The-Magic-Cannon.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\obj\Debug\net6.0\1.13 The-Magic-Cannon.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\obj\Debug\net6.0\1.13 The-Magic-Cannon.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\obj\Debug\net6.0\refint\1.13 The-Magic-Cannon.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\obj\Debug\net6.0\1.13 The-Magic-Cannon.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\obj\Debug\net6.0\1.13 The-Magic-Cannon.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.13 The-Magic-Cannon\obj\Debug\net6.0\ref\1.13 The-Magic-Cannon.dll
