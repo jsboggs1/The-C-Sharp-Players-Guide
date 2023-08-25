@@ -1,0 +1,15 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\bin\Debug\net6.0\8. The-Defense-of-Consolas.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\bin\Debug\net6.0\8. The-Defense-of-Consolas.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\bin\Debug\net6.0\8. The-Defense-of-Consolas.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\bin\Debug\net6.0\8. The-Defense-of-Consolas.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\bin\Debug\net6.0\8. The-Defense-of-Consolas.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\obj\Debug\net6.0\8. The-Defense-of-Consolas.csproj.AssemblyReference.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\obj\Debug\net6.0\8. The-Defense-of-Consolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\obj\Debug\net6.0\8. The-Defense-of-Consolas.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\obj\Debug\net6.0\8. The-Defense-of-Consolas.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\obj\Debug\net6.0\8. The-Defense-of-Consolas.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\obj\Debug\net6.0\8. The-Defense-of-Consolas.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\obj\Debug\net6.0\refint\8. The-Defense-of-Consolas.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\obj\Debug\net6.0\8. The-Defense-of-Consolas.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\obj\Debug\net6.0\8. The-Defense-of-Consolas.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\8. The-Defense-of-Consolas\obj\Debug\net6.0\ref\8. The-Defense-of-Consolas.dll

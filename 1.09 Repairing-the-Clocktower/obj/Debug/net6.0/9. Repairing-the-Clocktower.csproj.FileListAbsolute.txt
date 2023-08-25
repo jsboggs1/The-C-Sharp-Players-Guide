@@ -1,0 +1,15 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\bin\Debug\net6.0\9. Repairing-the-Clocktower.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\bin\Debug\net6.0\9. Repairing-the-Clocktower.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\bin\Debug\net6.0\9. Repairing-the-Clocktower.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\bin\Debug\net6.0\9. Repairing-the-Clocktower.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\bin\Debug\net6.0\9. Repairing-the-Clocktower.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\obj\Debug\net6.0\9. Repairing-the-Clocktower.csproj.AssemblyReference.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\obj\Debug\net6.0\9. Repairing-the-Clocktower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\obj\Debug\net6.0\9. Repairing-the-Clocktower.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\obj\Debug\net6.0\9. Repairing-the-Clocktower.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\obj\Debug\net6.0\9. Repairing-the-Clocktower.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\obj\Debug\net6.0\9. Repairing-the-Clocktower.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\obj\Debug\net6.0\refint\9. Repairing-the-Clocktower.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\obj\Debug\net6.0\9. Repairing-the-Clocktower.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\obj\Debug\net6.0\9. Repairing-the-Clocktower.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\9. Repairing-the-Clocktower\obj\Debug\net6.0\ref\9. Repairing-the-Clocktower.dll
