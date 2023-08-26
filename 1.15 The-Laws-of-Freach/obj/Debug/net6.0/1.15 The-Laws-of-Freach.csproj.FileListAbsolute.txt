@@ -1,0 +1,15 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\bin\Debug\net6.0\1.15 The-Laws-of-Freach.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\bin\Debug\net6.0\1.15 The-Laws-of-Freach.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\bin\Debug\net6.0\1.15 The-Laws-of-Freach.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\bin\Debug\net6.0\1.15 The-Laws-of-Freach.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\bin\Debug\net6.0\1.15 The-Laws-of-Freach.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\obj\Debug\net6.0\1.15 The-Laws-of-Freach.csproj.AssemblyReference.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\obj\Debug\net6.0\1.15 The-Laws-of-Freach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\obj\Debug\net6.0\1.15 The-Laws-of-Freach.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\obj\Debug\net6.0\1.15 The-Laws-of-Freach.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\obj\Debug\net6.0\1.15 The-Laws-of-Freach.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\obj\Debug\net6.0\1.15 The-Laws-of-Freach.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\obj\Debug\net6.0\refint\1.15 The-Laws-of-Freach.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\obj\Debug\net6.0\1.15 The-Laws-of-Freach.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\obj\Debug\net6.0\1.15 The-Laws-of-Freach.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.15 The-Laws-of-Freach\obj\Debug\net6.0\ref\1.15 The-Laws-of-Freach.dll

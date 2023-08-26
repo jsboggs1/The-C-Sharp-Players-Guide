@@ -1,0 +1,15 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\bin\Debug\net6.0\1.14 The-Replicator-of-DTo.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\bin\Debug\net6.0\1.14 The-Replicator-of-DTo.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\bin\Debug\net6.0\1.14 The-Replicator-of-DTo.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\bin\Debug\net6.0\1.14 The-Replicator-of-DTo.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\bin\Debug\net6.0\1.14 The-Replicator-of-DTo.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\obj\Debug\net6.0\1.14 The-Replicator-of-DTo.csproj.AssemblyReference.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\obj\Debug\net6.0\1.14 The-Replicator-of-DTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\obj\Debug\net6.0\1.14 The-Replicator-of-DTo.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\obj\Debug\net6.0\1.14 The-Replicator-of-DTo.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\obj\Debug\net6.0\1.14 The-Replicator-of-DTo.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\obj\Debug\net6.0\1.14 The-Replicator-of-DTo.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\obj\Debug\net6.0\refint\1.14 The-Replicator-of-DTo.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\obj\Debug\net6.0\1.14 The-Replicator-of-DTo.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\obj\Debug\net6.0\1.14 The-Replicator-of-DTo.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.14 The-Replicator-of-DTo\obj\Debug\net6.0\ref\1.14 The-Replicator-of-DTo.dll
