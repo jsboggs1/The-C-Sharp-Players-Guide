@@ -1,0 +1,14 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\bin\Debug\net6.0\1.17 Countdown.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\bin\Debug\net6.0\1.17 Countdown.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\bin\Debug\net6.0\1.17 Countdown.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\bin\Debug\net6.0\1.17 Countdown.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\bin\Debug\net6.0\1.17 Countdown.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\obj\Debug\net6.0\1.17 Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\obj\Debug\net6.0\1.17 Countdown.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\obj\Debug\net6.0\1.17 Countdown.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\obj\Debug\net6.0\1.17 Countdown.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\obj\Debug\net6.0\1.17 Countdown.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\obj\Debug\net6.0\refint\1.17 Countdown.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\obj\Debug\net6.0\1.17 Countdown.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\obj\Debug\net6.0\1.17 Countdown.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.17 Countdown\obj\Debug\net6.0\ref\1.17 Countdown.dll
