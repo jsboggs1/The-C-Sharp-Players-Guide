@@ -1,0 +1,14 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\bin\Debug\net6.0\1.19 Simulas-Test.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\bin\Debug\net6.0\1.19 Simulas-Test.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\bin\Debug\net6.0\1.19 Simulas-Test.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\bin\Debug\net6.0\1.19 Simulas-Test.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\bin\Debug\net6.0\1.19 Simulas-Test.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\obj\Debug\net6.0\1.19 Simulas-Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\obj\Debug\net6.0\1.19 Simulas-Test.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\obj\Debug\net6.0\1.19 Simulas-Test.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\obj\Debug\net6.0\1.19 Simulas-Test.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\obj\Debug\net6.0\1.19 Simulas-Test.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\obj\Debug\net6.0\refint\1.19 Simulas-Test.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\obj\Debug\net6.0\1.19 Simulas-Test.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\obj\Debug\net6.0\1.19 Simulas-Test.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.19 Simulas-Test\obj\Debug\net6.0\ref\1.19 Simulas-Test.dll
