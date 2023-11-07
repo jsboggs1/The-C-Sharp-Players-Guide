@@ -1,0 +1,14 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\bin\Debug\net6.0\1.23 The-Color.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\bin\Debug\net6.0\1.23 The-Color.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\bin\Debug\net6.0\1.23 The-Color.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\bin\Debug\net6.0\1.23 The-Color.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\bin\Debug\net6.0\1.23 The-Color.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\obj\Debug\net6.0\1.23 The-Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\obj\Debug\net6.0\1.23 The-Color.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\obj\Debug\net6.0\1.23 The-Color.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\obj\Debug\net6.0\1.23 The-Color.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\obj\Debug\net6.0\1.23 The-Color.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\obj\Debug\net6.0\refint\1.23 The-Color.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\obj\Debug\net6.0\1.23 The-Color.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\obj\Debug\net6.0\1.23 The-Color.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.23 The-Color\obj\Debug\net6.0\ref\1.23 The-Color.dll
