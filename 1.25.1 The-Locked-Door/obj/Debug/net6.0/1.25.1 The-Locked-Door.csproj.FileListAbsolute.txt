@@ -1,0 +1,14 @@
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\bin\Debug\net6.0\1.25.1 The-Locked-Door.exe
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\bin\Debug\net6.0\1.25.1 The-Locked-Door.deps.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\bin\Debug\net6.0\1.25.1 The-Locked-Door.runtimeconfig.json
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\bin\Debug\net6.0\1.25.1 The-Locked-Door.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\bin\Debug\net6.0\1.25.1 The-Locked-Door.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\obj\Debug\net6.0\1.25.1 The-Locked-Door.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\obj\Debug\net6.0\1.25.1 The-Locked-Door.AssemblyInfoInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\obj\Debug\net6.0\1.25.1 The-Locked-Door.AssemblyInfo.cs
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\obj\Debug\net6.0\1.25.1 The-Locked-Door.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\obj\Debug\net6.0\1.25.1 The-Locked-Door.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\obj\Debug\net6.0\refint\1.25.1 The-Locked-Door.dll
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\obj\Debug\net6.0\1.25.1 The-Locked-Door.pdb
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\obj\Debug\net6.0\1.25.1 The-Locked-Door.genruntimeconfig.cache
+C:\Users\Seth\Desktop\The Folder for Other Folders\C# Projects\Book\1.25.1 The-Locked-Door\obj\Debug\net6.0\ref\1.25.1 The-Locked-Door.dll
